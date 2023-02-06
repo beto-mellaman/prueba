@@ -1,5 +1,5 @@
 import unittest
-import kata
+import kata_Fizz_Buzz
 #https://docs.python.org/3/library/unittest.html
 
 class TestStringMethods(unittest.TestCase):
