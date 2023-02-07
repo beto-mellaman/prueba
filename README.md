@@ -1,1 +1,2 @@
-"Esto es una pr�ctica del grado de DAM 20/23 de CESTE, asignatura Entornos de Desarrollo" 
+"Esto es una pr ctica del grado de DAM 20/23 de CESTE, asignatura Entornos de Desarrollo" 
+La Kata Fizzbuzz consiste en crear código, en el que tenemos que decirle que devuelva Fizz si el número es divisible por 3, que nos devuelva Buzz si el número es divisible por 5 y que nos devuelva FizzBuzz si el número es divisible por 3 y 5. Se tienen que realizar tests a medida que vayas escribiendo el código.
